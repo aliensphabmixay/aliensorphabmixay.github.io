@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website Redesign",
+    "description": "A modern and responsive redesign of my personal portfolio website, focusing on clean UI/UX and performance.",
+    "imageUrl": "images/project-placeholder.png",
+    "projectUrl": "https://your-portfolio-link.com/project1"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Product Page",
+    "description": "Developed a dynamic product page for an e-commerce platform with interactive image gallery and add-to-cart functionality.",
+    "imageUrl": "images/project-placeholder.png",
+    "projectUrl": "https://your-ecommerce-link.com/product"
+  },
+  {
+    "id": 3,
+    "title": "Task Management App",
+    "description": "A simple task management application built with vanilla JavaScript, allowing users to add, delete, and mark tasks as complete.",
+    "imageUrl": "images/project-placeholder.png",
+    "projectUrl": "https://your-task-app-link.com"
+  },
+  {
+    "id": 4,
+    "title": "Recipe Finder API Integration",
+    "description": "An application that fetches recipes from a public API based on user search queries, displaying ingredients and instructions.",
+    "imageUrl": "images/project-placeholder.png",
+    "projectUrl": "https://your-recipe-app-link.com"
+  }
+]
